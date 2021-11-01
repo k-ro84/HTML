@@ -1,0 +1,26 @@
+body {
+    background-color: #bb5563;
+    font-family: arial;
+    color: White;
+    }
+    h1 {
+        font-size: 18;
+        font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
+        text-decoration: underline;
+        text-align: center;
+        background-color: #1cf3f3;
+        }
+    h2 {
+            font-size: 18;
+            font-family: Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+            text-decoration: underline;
+            text-align: center;
+            background-color: rgb(71, 119, 49);
+        }
+    p {
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: left;
+    }
+   

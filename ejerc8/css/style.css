@@ -1,0 +1,41 @@
+body {
+    background-color: #c51129;
+    font-family: arial;
+    color: rgb(42, 112, 112);
+    }
+    h1 {
+        font-size: 18;
+        font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
+        text-decoration: underline;
+        text-align: center;
+        background-color: #f38f1c;
+        }
+    h2 {
+            font-size: 18;
+            font-family: Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+            text-decoration: underline;
+            text-align: center;
+            background-color: rgb(230, 91, 26);
+        }
+    p {
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: left;
+    }
+    a{
+
+        color: #CC0000;
+
+    }
+    a:hover{
+
+        background-color: #CC0000;
+        color: #FFF;
+
+    }
+    a:visited{
+
+        color: #CCC;
+
+    } 
